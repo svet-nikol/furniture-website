@@ -1,0 +1,18 @@
+@media (max-width: 767px) {
+  .center {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .top__header .logo {
+    display: block;
+  }
+  .top__header .logo__img {
+    width: 99px;
+  }
+  .top__header .header__input {
+    display: none;
+  }
+  .top__header .top__menu {
+    display: none;
+  }
+}/*# sourceMappingURL=mobile.css.map */
